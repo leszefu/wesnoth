@@ -1,0 +1,1027 @@
+# This file was generated using the scenario editor.
+#
+# If you edit this file by hand, then you shouldn't use the
+# scenario editor on it afterwards. The editor completely
+# rewrites the file when it saves it, which will lose any WML
+# that the editor doesn't support.
+
+description="Bitwa pod Helmowym Jarem"
+id="Helms_Deep_v1.2"
+map_file="Helms_Deep_scen.map"
+name="Helms_Deep_v1.2"
+victory_when_enemies_defeated=yes
+[time]
+	blue=0
+	green=-15
+	id="dawn"
+	image="misc/time-schedules/default/schedule-dawn.png"
+	lawful_bonus=0
+#textdomain wesnoth-help
+	name=_"Dawn"
+	red=-25
+	sound="ambient/morning.ogg"
+[/time]
+[time]
+	blue=0
+	green=0
+	id="morning"
+	image="misc/time-schedules/default/schedule-morning.png"
+	lawful_bonus=25
+	name=_"Morning"
+	red=0
+[/time]
+[time]
+	blue=0
+	green=0
+	id="afternoon"
+	image="misc/time-schedules/default/schedule-afternoon.png"
+	lawful_bonus=25
+	name=_"Afternoon"
+	red=0
+[/time]
+[time]
+	blue=-35
+	green=-20
+	id="dusk"
+	image="misc/time-schedules/default/schedule-dusk.png"
+	lawful_bonus=0
+	name=_"Dusk"
+	red=10
+	sound="ambient/night.ogg"
+[/time]
+[time]
+	blue=-13
+	green=-45
+	id="first_watch"
+	image="misc/time-schedules/default/schedule-firstwatch.png"
+	lawful_bonus=-25
+	name=_"First Watch"
+	red=-75
+[/time]
+[time]
+	blue=-13
+	green=-45
+	id="second_watch"
+	image="misc/time-schedules/default/schedule-secondwatch.png"
+	lawful_bonus=-25
+	name=_"Second Watch"
+	red=-75
+[/time]
+[side]
+	controller="ai"
+	fog=no
+	gold=1000
+	hidden=no
+	income=2
+	no_leader=yes
+	share_vision="all"
+	shroud=no
+	side=1
+	side_name="Saruman"
+	team_name="Isengard"
+	color=white
+	[leader]
+		id=Saruman
+		name="Saruman"
+		type="Elder Mage"
+		max_moves=0
+		recruit=
+		extra_recruit=Orcish Grunt, Orcish Archer, Wolf Rider, Orcish Assassin, Goblin Spearman
+	[/leader]
+	[leader]
+		id=Dunlending
+		name="Dunlending"
+		type="Outlaw"
+		x,y=2,19
+		canrecruit=yes
+		recruit=
+		extra_recruit=Footpad, Thug, Peasant, Poacher, Thief
+	[/leader]
+	[unit]
+		id=Podpalacz1
+		facing="se"
+		name="Dor"
+		type="Goblin Pillager"
+		x=2
+		y=10
+	[/unit]
+	[unit]
+		id=Podpalacz2
+		facing="ne"
+		name="Riprub"
+		type="Goblin Pillager"
+		x=4
+		y=9
+	[/unit]
+	[unit]
+		id=Podpalacz3
+		facing="se"
+		name="Ushnish"
+		type="Goblin Pillager"
+		x=6
+		y=8
+	[/unit]
+	[unit]
+		id=Podpalacz4
+		facing="sw"
+		name="Ato"
+		type="Goblin Pillager"
+		x=8
+		y=7
+	[/unit]
+[/side]
+[side]
+	controller="human"
+	fog=no
+	gold=100
+	hidden=no
+	income=2
+	no_leader=yes
+	share_vision="all"
+	shroud=no
+	side=2
+	side_name="Helmowy Jar"
+	team_name="Wolne Ludy"
+	color=blue
+	[leader]
+		id=Theoden
+		name="Theoden"
+		type="Knight"
+		x,y=20,29
+		canrecruit=yes
+		recruit=
+		extra_recruit=Spearman, Bowman, Heavy Infantryman, Fencer
+	[/leader]
+	[unit]
+		id=Gimli
+		name="Gimli"
+		type="Dwarvish Steelclad"
+		x,y=21,30
+	[/unit]
+	[unit]
+		id=Legolas
+		name="Legolas"
+		type="Elvish Marksman"
+		x,y=20,30
+	[/unit]
+	[unit]
+		id=Aragorn
+		name="Aragorn"
+		type="Lieutenant"
+		x,y=19,30
+	[/unit]
+[/side]
+[side]
+	controller="ai"
+	fog=no
+	gold=500
+	hidden=no
+	income=2
+	no_leader=yes
+	share_vision="all"
+	shroud=no
+	side=3
+	side_name="Wycinacze"
+	team_name="Isengard"
+	color=red
+	[leader]
+		id=Wycinacz
+		name="Ork Wycinacz"
+		type="Orcish Ruler"
+		x,y=25,12
+		canrecruit=yes
+		recruit=
+		extra_recruit=Orcish Grunt, Orcish Archer, Wolf Rider, Orcish Assassin, Goblin Spearman
+	[/leader]
+[/side]
+[side]
+	controller="human"
+	fog=no
+	gold=150
+	hidden=no
+	income=2
+	no_leader=yes
+	share_vision="all"
+	shroud=no
+	side=4
+	side_name="Gandalf"
+	team_name="Wolne Ludy"
+	color=purple
+	[unit]
+		id=Gandalf
+		name="Gandalf"
+		type="Mage of Light"
+		x,y=38,11
+	[/unit]
+	[leader]
+		id=Treebeard
+		name="Treebeard"
+		type="Elder Wose"
+		max_moves=0
+		canrecruit=yes
+		hidden=yes
+		x,y=28,4
+		recruit=
+		extra_recruit=Wose
+	[/leader]
+	[leader]
+		id=Eomer
+		name="Eomer"
+		type="Knight"
+		max_moves=0
+		canrecruit=yes
+		hidden=yes
+		x,y=43,2
+		recruit=
+		extra_recruit=Cavalryman, Horseman
+		facing="sw"
+	[/leader]
+
+[/side]
+[side]
+	controller="human"
+	fog=no
+	gold=100
+	hidden=no
+	income=2
+	no_leader=yes
+	share_vision="all"
+	shroud=no
+	side=5
+	side_name="Elfy"
+	team_name="Wolne Ludy"
+	color=green
+	[leader]
+		id=Haldir
+		name="Haldir"
+		type="Elvish Marksman"
+		canrecruit=yes
+		x,y=33,1
+		recruit=
+		extra_recruit=Elvish Archer, Elvish Shaman, Elvish Fighter
+	[/leader]
+
+[/side]
+
+# Ustalenie micro_ai
+
+[event]
+	name=prestart
+		[micro_ai]
+			side=1
+			ai_type=assassin
+			action=add
+				[filter]
+					type=Orcish Assassin
+				[/filter]
+				[filter_second]
+					id=Theoden
+				[/filter_second]
+				[prefer]
+					x=18-27,1-17
+					y=22-33,23-33
+				[/prefer]
+		[/micro_ai]
+
+[/event]
+
+[event]
+	name=prestart
+		[micro_ai]
+			side=2
+			ai_type=bottleneck_defense
+			action=add
+			x=18,19,21,23,25,26,19,22,25
+			y=27,27,27,27,27,27,29,30,30
+			enemy_x=17,27,19,21,23,25
+			enemy_y=27,27,26,26,26,26
+			active_side_leader=no
+			leadership_x=19,21,23,25,20,22,24
+			leadership_y=28,28,28,28,27,27,27
+		[/micro_ai]
+
+[/event]
+[event]
+	name=prestart
+		[micro_ai]
+			side=3
+			ai_type=zone_guardian
+			action=add
+				[filter]
+					type=Orcish Assassin, Orcish Grunt, Orcish Archer, Goblin Spearman
+				[/filter]
+				[filter_location]
+					x=27-44
+					y=1-21
+				[/filter_location]
+
+		[/micro_ai]
+
+[/event]			
+
+#[event]
+#	name=prestart
+#		[micro_ai]
+#			side=3
+#			ai_type=zone_guardian
+#			action=add
+#				[filter]
+#					type=Rfc Orcish Woodcutter
+#				[/filter]
+#				[filter_location]
+#					x=27-38
+#					y=1-10
+#				[/filter_location]
+#
+#		[/micro_ai]
+#
+#[/event]
+[event]
+	name=prestart
+		[micro_ai]
+			side=1
+			ai_type=zone_guardian
+			action=add
+				[filter]
+					type=Orcish Grunt, Orcish Archer, Goblin Spearman
+				[/filter]
+				[filter_location]
+					x=17-27
+					y=22-30
+				[/filter_location]
+
+		[/micro_ai]
+
+[/event]
+
+
+
+[event]
+	name=prestart
+		[micro_ai]
+			side=1
+			ai_type=goto
+			action=add
+			release_unit_at_goal=yes
+			use_straight_line=yes
+			remove_movement=no
+
+			[filter]
+				id=Podpalacz1
+			[/filter]
+			[filter_location]
+				x,y=19,26
+			[/filter_location]
+		[/micro_ai]
+[/event]
+[event]
+	name=prestart
+		[micro_ai]
+			side=1
+			ai_type=goto
+			action=add
+			release_unit_at_goal=yes
+			use_straight_line=yes
+			remove_movement=no
+
+			[filter]
+				id=Podpalacz2
+			[/filter]
+			[filter_location]
+				x,y=21,26
+			[/filter_location]
+		[/micro_ai]
+[/event]
+[event]
+	name=prestart
+		[micro_ai]
+			side=1
+			ai_type=goto
+			action=add
+			release_unit_at_goal=yes
+			use_straight_line=yes
+			remove_movement=no
+
+			[filter]
+				id=Podpalacz3
+			[/filter]
+			[filter_location]
+				x,y=23,26
+			[/filter_location]
+		[/micro_ai]
+[/event]
+[event]
+	name=prestart
+		[micro_ai]
+			side=1
+			ai_type=goto
+			action=add
+			release_unit_at_goal=yes
+			use_straight_line=yes
+			remove_movement=no
+
+			[filter]
+				id=Podpalacz4
+			[/filter]
+			[filter_location]
+				x,y=25,26
+			[/filter_location]
+		[/micro_ai]
+[/event]	
+
+
+# Zmienne fragów Gimlego i Legolasa
+[event]
+	name=prestart
+		[set_variable]
+			name=licznik_gimli
+			value=0
+		[/set_variable]
+		[set_variable]
+			name=licznik_legolas
+			value=0
+		[/set_variable]
+[/event]
+
+
+[event]
+	
+	name=die
+	first_time_only=no
+
+		[filter_second]
+			id=Legolas
+		[/filter_second]
+			[set_variable]
+				name=licznik_legolas
+				add=1
+			[/set_variable]
+		[message]
+			speaker=Legolas
+			message=$licznik_legolas
+		[/message]
+
+
+[/event]
+[event]
+	
+	name=die
+	first_time_only=no
+
+		[filter_second]
+			id=Gimli
+		[/filter_second]
+			[set_variable]
+				name=licznik_gimli
+				add=1
+			[/set_variable]
+		[message]
+			speaker=Gimli
+			message=$licznik_gimli
+		[/message]
+[/event]
+
+#Podkładanie prochu i wypuszczanie podpalaczy. Cztery razy.
+
+[event]
+	name=moveto
+		[filter]
+		side=1
+		type="Orcish Grunt", "Orcish Assassin", "Orcish Archer"
+		x,y=19,26
+		[/filter]
+		[terrain]
+		x,y=19,26
+		terrain=Gg^Eb
+		[/terrain]
+		[message]
+			speaker=unit
+			message= _ "Proch podłożony!"
+		[/message]
+		[terrain]
+			x,y=3,11
+			terrain=Rp^Pr/o
+		[/terrain]
+		[message]
+			speaker=Saruman
+			sound="open-chest.wav"
+			message= _ "Wypuśćcie krakena z klatki!"
+		[/message]
+[/event]
+[event]
+	name=moveto
+		[filter]
+			side=1
+			id=Podpalacz1
+			x,y=19,26
+		[/filter]
+		[terrain]
+			x,y=18,26
+			terrain=Chr^Dr
+		[/terrain]
+		[terrain]
+			x,y=19,27
+			terrain=Chr^Dr
+		[/terrain]
+		[terrain]
+			x,y=20,26
+			terrain=Chr^Dr
+		[/terrain]
+		[terrain]
+			x,y=19,26
+			terrain=Gg^Dr
+		[/terrain]
+		[message]
+			speaker=unit
+			sound="explosion.ogg"
+			message= _ "Ale jebło!"
+		[/message]
+		[harm_unit]
+			[filter]
+				id=Podpalacz1
+			[/filter]
+			amount=30
+		[/harm_unit]
+[/event]
+[event]
+	name=moveto
+		[filter]
+		side=1
+		type="Orcish Grunt", "Orcish Assassin", "Orcish Archer"
+		x,y=21,26
+		[/filter]
+		[terrain]
+		x,y=21,26
+		terrain=Gg^Eb
+		[/terrain]
+		[message]
+			speaker=unit
+			message= _ "Proch podłożony!"
+		[/message]
+		[terrain]
+			x,y=5,10
+			terrain=Rp^Pr/o
+		[/terrain]
+		[message]
+			speaker=Saruman
+			sound="open-chest.wav"
+			message= _ "Wypuśćcie krakena z klatki!"
+		[/message]
+[/event]
+[event]
+	name=moveto
+		[filter]
+			side=1
+			id=Podpalacz2
+			x,y=21,26
+		[/filter]
+		[terrain]
+			x,y=20,26
+			terrain=Chr^Dr
+		[/terrain]
+		[terrain]
+			x,y=21,27
+			terrain=Chr^Dr
+		[/terrain]
+		[terrain]
+			x,y=22,26
+			terrain=Rp^Pr|o
+		[/terrain]
+		[terrain]
+			x,y=21,26
+			terrain=Gg^Dr
+		[/terrain]
+		[message]
+			speaker=unit
+			sound="explosion.ogg"
+			sound="open-chest.wav"
+			message= _ "Ale jebło!"
+		[/message]
+		[harm_unit]
+			[filter]
+				id=Podpalacz2
+			[/filter]
+			amount=30
+		[/harm_unit]
+[/event]
+[event]
+	name=moveto
+		[filter]
+		side=1
+		type="Orcish Grunt", "Orcish Assassin", "Orcish Archer"
+		x,y=23,26
+		[/filter]
+		[terrain]
+		x,y=23,26
+		terrain=Gg^Eb
+		[/terrain]
+		[message]
+			speaker=unit
+			message= _ "Proch podłożony!"
+		[/message]
+		[terrain]
+			x,y=7,9
+			terrain=Rp^Pr/o
+		[/terrain]
+		[message]
+			speaker=Saruman
+			sound="open-chest.wav"
+			message= _ "Wypuśćcie krakena z klatki!"
+		[/message]
+[/event]
+[event]
+	name=moveto
+		[filter]
+			side=1
+			id=Podpalacz3
+			x,y=23,26
+		[/filter]
+		[terrain]
+			x,y=24,26
+			terrain=Chr^Dr
+		[/terrain]
+		[terrain]
+			x,y=23,27
+			terrain=Chr^Dr
+		[/terrain]
+		[terrain]
+			x,y=22,26
+			terrain=Rp^Pr|o
+		[/terrain]
+		[terrain]
+			x,y=23,26
+			terrain=Gg^Dr
+		[/terrain]
+		[message]
+			speaker=unit
+			sound="explosion.ogg"
+			sound="open-chest.wav"
+			message= _ "Ale jebło!"
+		[/message]
+		[harm_unit]
+			[filter]
+				id=Podpalacz3
+			[/filter]
+			amount=30
+		[/harm_unit]
+[/event]
+[event]
+	name=moveto
+		[filter]
+		side=1
+		type="Orcish Grunt", "Orcish Assassin", "Orcish Archer"
+		x,y=25,26
+		[/filter]
+		[terrain]
+		x,y=25,26
+		terrain=Gg^Eb
+		[/terrain]
+		[message]
+			speaker=unit
+			message= _ "Proch podłożony"
+		[/message]
+		[terrain]
+			x,y=9,8
+			terrain=Rp^Pr/o
+		[/terrain]
+		[message]
+			speaker=Saruman
+			sound="open-chest.wav"
+			message= _ "Wypuśćcie krakena z klatki"
+		[/message]
+[/event]
+[event]
+	name=moveto
+		[filter]
+			side=1
+			id=Podpalacz4
+			x,y=25,26
+		[/filter]
+		[terrain]
+			x,y=24,26
+			terrain=Chr^Dr
+		[/terrain]
+		[terrain]
+			x,y=25,27
+			terrain=Chr^Dr
+		[/terrain]
+		[terrain]
+			x,y=26,26
+			terrain=Chr^Dr
+		[/terrain]
+		[terrain]
+			x,y=25,26
+			terrain=Gg^Dr
+		[/terrain]
+		[message]
+			speaker=unit
+			sound="explosion.ogg"
+			message= _ "Ale jebło"
+		[/message]
+		[harm_unit]
+			[filter]
+				id=Podpalacz4
+			[/filter]
+			amount=30
+		[/harm_unit]
+[/event]
+
+# Brak standardowej rekrutacji
+
+[event]
+	name=prestart
+
+		[disallow_recruit]
+			side=1,2,3,4,5
+		[/disallow_recruit]
+
+[/event]
+
+
+# Aktywacja Dżewa
+[event]
+	name=moveto
+		[filter]
+			side=4
+			id=Gandalf
+			x,y=28,3
+		[/filter]
+		[modify_unit]
+			[filter]
+				id=Treebeard
+			[/filter]
+		max_moves=4
+		moves=4
+		[/modify_unit]
+		[message]
+			speaker=Gandalf
+			message= _ "Co do kurwy?! Co tak stoisz jakbyś chciał korzenie zapuścić?"
+		[/message]
+		[message]
+			speaker=Treebeard
+			message= _ "Wyrażaj się młodzieńcze!"
+		[/message]
+		[message]
+			speaker=Gandalf
+			message= _ "Nie ma czasu. Rusz dziuplę, czy co tam masz zamiast dupy, i nakurwiaj na Isengard!"
+		[/message]
+		[message]
+			speaker=Treebeard
+			message= _ "Don't be so hasty, young Gandalf"
+		[/message]
+		[message]
+			speaker=Gandalf
+			message= _ "Przestań mi tu szprechać po niemiecku i rozwal tamę na Isenie. Muszę jeszcze obronić Helmowy Jar!"
+		[/message]
+		
+[/event]
+
+# Aktywacja Eomera
+
+[event]
+	name=moveto
+		[filter]
+			side=4
+			id=Gandalf
+			x,y=42,2
+		[/filter]
+		[modify_unit]
+			[filter]
+				id=Eomer
+			[/filter]
+		max_moves=8
+		moves=8
+		[/modify_unit]
+		[message]
+			speaker=Eomer
+			message= _ "Stać, kto idzie?"
+		[/message]
+		[message]
+			speaker=Gandalf
+			message= _ "Eomerze, Rohan Cię potrzebuje!"
+		[/message]
+		[message]
+			speaker=Eomer
+			message= _ "Pytałem o imię dziadu! Rozjechać go!"
+		[/message]
+		[message]
+			speaker=Gandalf
+			message= _ "..."
+			sound="horse-canter.wav"
+		[/message]
+		[message]
+			speaker=Eomer
+			message= _ "Spokojnie, Żartowałem! Widzieliśmy Cię z daleka. Świecisz się jak choinka na Baziola Narodzenie. Chłopcy, lecimy na pełnej kurwie na Helmowy Jar!"
+		[/message]
+		
+[/event]
+
+# Zniszczenie tamy
+
+[event]
+	name=moveto
+		[filter]
+			side=4
+			type="Ancient Wose", "Elder Wose"
+			x,y=19,8
+		[/filter]
+		[message]
+			speaker=unit
+			message= _ "Ta tama nie pęknie dla jednej kropli."
+			sound="explosion.ogg"
+		[/message]
+		[terrain]
+			x=17-18
+			y=8
+			terrain=Wwg^Pw\o
+		[/terrain]
+		[terrain]
+			x=16,15,14,13,12,13
+			y=8,9,9,10,10,9
+			terrain=Wwg
+		[/terrain]
+		[harm_unit]
+			[filter]
+			x=16,15,14,13,12,13
+			y=8,9,9,10,10,9
+			[/filter]
+			amount=30
+		[/harm_unit]
+		[message]
+			speaker=Saruman
+			message= _ "Ale jak to? Obawiam się, ze zaraz nas zaleje. Cholerni sąsiedzi z góry! To już trzeci raz w tym miesiącu!"
+			sound="water-blast.wav"
+		[/message]
+		[terrain]
+			x=12,12,11,12,11,12,11
+			y=8,11,12,12,13,13,14
+			terrain=Wwg
+		[/terrain]
+		[harm_unit]
+			[filter]
+			x=12,12,11,12,11,12,11
+			y=8,11,12,12,13,13,14
+			[/filter]
+			amount=20
+		[/harm_unit]
+		[terrain]
+			x=10,10,10,9
+			y=11,12,13,14
+			terrain=Wwrg
+		[/terrain]
+		[harm_unit]
+			[filter]
+			x=10,10,10,9
+			y=11,12,13,14
+			[/filter]
+			amount=20
+		[/harm_unit]
+		[message]
+			speaker=Saruman
+			message= _ "Chyba musimy zadzwonić do Pana Zdzisia hydraulika. Idę wykręcić numer w Palantirze."
+			sound="water-blast.wav"
+		[/message]
+		[terrain]
+			x=9,10,11,9,9,8,9,10
+			y=10,10,10,15,16,16,9,8
+			terrain=Wwrg
+		[/terrain]
+		[harm_unit]
+			[filter]
+			x=9,10,11,9,9,8,9,10
+			y=10,10,10,15,16,16,9,8
+			[/filter]
+			amount=10
+		[/harm_unit]
+		[terrain]
+			x=8,7,8,9,7,8,9,6,6,7,8,7,8,10,10,11,11
+			y=11,12,12,12,13,13,13,13,14,14,14,15,15,14,15,15,16
+			terrain=Wwg
+		[/terrain]
+		[harm_unit]
+			[filter]
+			x=8,7,8,9,7,8,9,6,6,7,8,7,8,10,10,11,11
+			y=11,12,12,12,13,13,13,13,14,14,14,15,15,14,15,15,16
+			[/filter]
+			amount=10
+		[/harm_unit]
+		[terrain]
+			x=11
+			y=9
+			terrain=Chw
+		[/terrain]
+		[harm_unit]
+			[filter]
+			x=11
+			y=9
+			[/filter]
+			amount=10
+		[/harm_unit]
+		[terrain]
+			x,y=10,9
+			terrain=Khw
+		[/terrain]
+		[harm_unit]
+			[filter]
+			x,y=10,9
+			[/filter]
+			amount=10
+		[/harm_unit]
+		[terrain]
+			x,y=12,14
+			terrain=Ww^Vm
+		[/terrain]
+		[terrain]
+			x=6,6,8,10
+			y=13,14,15,15
+			terrain=Sm
+		[/terrain]
+		[terrain]
+			x=8,7,10
+			y=12,15,14
+			terrain=Wwg^Ewl
+		[/terrain]
+		[terrain]
+			x=9,10,11
+			y=10,10,10
+			terrain=Wwrg^Edb
+		[/terrain]
+		[terrain]
+			x=9,11,11
+			y=12,12,13
+			terrain=Wwg^Edb
+		[/terrain]
+			
+[/event]
+
+# So it begins!
+[event]
+	name=sighted
+		[filter]
+			side=1,3
+		[/filter]
+		[filter_second]
+			id=Theoden
+		[/filter_second]
+		[message]
+			speaker=Theoden
+			message= _ "A więc zaczęło się!"
+		[/message]
+		[message]
+			speaker=Gimli
+			message= _ "Co tam się dzieje? Nic nie widzę!"
+		[/message]
+		[message]
+			speaker=Legolas
+			message= _ "Wolisz, żeby Ci opisać, czy raczej podstawić skrzynię pod stopy?"
+		[/message]
+			
+[/event]
+
+# Start Gandalf
+
+[event]
+	name=side 4 turn 1
+	[message]
+		speaker=Gandalf
+		message= _ "Te durnie w Helmowym Jarze same się nie obronią! Mogę zmusić Drewniaka do działania lub poprosić Eomera o odsiecz. Czy zdążę do obu?"
+	[/message]
+[/event]
+
+# Śmierć Gimli
+
+[event]
+	name=last breath
+		[filter]
+			id=Gimli
+		[/filter]
+		[message]
+			speaker=Gimli
+			message= _ "Nie spodziewałem się, że umrę u boku Elfa!"
+		[/message]
+		[message]
+			speaker=Legolas
+			message= _ "A co powiesz na śmierć u boku Przyjaciela?"
+		[/message]
+		[message]
+			speaker=Gimli
+			message= _ "Albo ledwie znajomego! Wal się, Elfie!"
+		[/message]
+[/event]
+
+# Śmierć Legolas
+
+[event]
+	name=last breath
+		[filter]
+			id=Legolas
+		[/filter]
+		[message]
+			speaker=Legolas
+			message= _ "Dobrze, że umarłem u boku Przyjaciela!"
+		[/message]
+		[message]
+			speaker=Gimli
+			message= _ "Cokolwiek... Wygląda na to, że wygrałem!"
+		[/message]
+[/event]
