@@ -1,0 +1,303 @@
+# This file was generated using the scenario editor.
+#
+# If you edit this file by hand, then you shouldn't use the
+# scenario editor on it afterwards. The editor completely
+# rewrites the file when it saves it, which will lose any WML
+# that the editor doesn't support.
+
+description=""
+id="Dunharrow"
+map_data="Gg, Gg, Hh, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Hh, Hh, Gg, Gg, Gg, Gg, Gg, Gg, Hh, Gg, Gg, Gg, Gg, Gg, Gg, Wo, Gd, Gg, Gg, Gg, Gd, Gg, Gd, Gg, Gg, Gg, Gd, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg
+Gg, Hh, Hh, Hh, Gg, Gg, Gg, Gg, Gd^Vo, Gg, Gg, Hh, Gd, Gg, Gg, Gg, Gd, Gg, Hh, Gg, Gg, Gg^Em, Gs^Fms, Gg, Gg, Wo, Gg, Gd, Gd, Gd, Hh, Gd, Hh, Gd, Gd, Gd, Gg, Gd, Gg, Hh, Hh^Fms, Hh, Gg, Gg, Gd, Gg
+Gg, Hh, Gg^Efm, Hh, Gg, Gg^Em, Gs^Fms, Gg, Gg, Gg, Gg, Hh, Gd, Gd, 4 Ko, Co, Gg^Edt, Gg, Gg, Gd^Vo, Gg, Gg^Em, Gg^Eff, Gg, Gg, Ww, Rrc, Gg^Em, Gs^Fms, Gs^Fms, Gd, Hh^Fms, Gd, Gd, Gg, Gg, Ce, Gg^Efm, Gg, Gg^Em, Gs^Fms, Gg^Em, Gg, Gg, Gd^Esa, Gg
+Gg, Hh, Gg, Gg, Gg, Gg, Gg, Gd, Gd, Gd, Gg, Gs^Fms, Gg, Co, Co, Co, Gd^Edt, Gg, Gg, Gg, Gs^Fms, Gg^Eff, Gg^Efm, Gg^Efm, Rrc, Wo^Bsb/, Gg, Rrc, Rrc, Gg, Gg, Gd, Gg, Gg^Efm, Rp, Ce, 5 Ket, Ce, Gg^Efm, Gs^Fms, Gg, Gg, Hh^Esa, Gd, Mm, Mm
+Gg, Gs^Fms, Gs^Fms, Gg^Efm, Gg, Gs^Fms, Gg, Hh, Hh^Fms, Gd, Gd, Gg, Gg, Gg^Edt, Gg, Gg^Edt, Gd, Gd, Gg, Gg, Gg, Gg, Rrc, Rrc, Gg, Wo, Gg, Gg, Gg, Rrc, Rrc, Gg, Rp, Rp, Gg, Ce, Ce, Ce, Gg^Efm, Gg, Gs^Vl, Gg, Gd, Gd, Mm, Mm
+Gg, Gs^Fms, Gs^Fms, Gg, Gg, Gs^Vc, Gg, Gg, Gg, Gg, Gg, Gg, Hh, Gg, Gg, Gg, Gd, Gd, Gg, Gg, Rrc, Rrc, Gg, Gs^Vl, Gg, Wo, Gg^Efm, Gg^Efm, Gg, Rrc, Gg, Rp, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gd, Mm, Mm, Mm
+Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Hh^Fms, Gs^Fms, Gs^Fms, Gg, Gd, Rrc, Rrc, Gg, Gs^Fms, Gs^Fms, Gg, Gg, Wo, Wo, Gg, Gg, Rrc, Gg, Hh, Gg, Gg, Gs^Fms, Gs^Fms, Gg, Gg, Hh^Fms, Gs^Fms, Gd, Gd, Mm, Mm, Mm, Mm
+Gg, Gg, Gg^Em, Gg^Em, Gg, Gg, Gg, Ss, Wwg, Wwg, Wwg, Ss, Wo, Gg, Gg, Gg, Wo, Gg, Ww^Bsb|, Gg, Gg, Gg, Gg, Gg^Wm, Gg^Gvs, Gg^Gvs, Wo, Gg, Gg, Rrc, Gs^Fms, Gg, Gg, Gg, Gg^Em, Gs^Fms, Gg, Hh, Hh, Gg, Gd, Gd^Edt, Mm, Mm, Mm, Mm
+Rrc, Gg, Rrc, Gg, Gg, Gg, Wo, Wo, Gg, Ss, Gg, Wo, Gg, Wo, Wo, Wo, Gg^Em, Ww, Rrc, Ww, Wo, Wo, Wo, Gg, Gg, Gg, Wo, Gg, Gg, Rrc, Rrc, Gs^Fms, Gg, Hh, Hh, Gg, Gd, Gg, Gd, Gg, Co, Co, Co, Mm, Mm, Mm
+Gg, Rrc, Gg^Eff, Rrc, Rrc, Wo, Gg, Gg, Gg, Gg, Rrc, Gg, Rrc, Gg, Gs^Fms, Gg, Rrc, Gg, Rrc, Gg, Gg, Gg, Gg, Wo, Wo, Wo, Gg, Gg, Gs^Fms, Gg, Rrc, Gg, Gg^Efm, Gg, Gg, Gg, Gd^Vo, Gd, Gd, Gd^Edt, Co, 6 Ko, Co, Mm, Mm, Mm
+Gg, Gg^Eff, Gg^Efm, Gg^Eff, Gg, Ww^Bsb\, Rrc, Gg, 1 Kh, Ch, Gg, Rrc, Gg, Rrc, Rrc, Rrc, Gg, Rrc, Gg^Fmw, Rrc, Gg^Em, Gg, Hh, Gg, Gg, Wo, Gg, Gg, Gg, Gs^Fms, Gg, Rrc, Rrc, Gg^Efm, Gg, Gg, Gg, Gd^Edt, Rp, Rp, Gd^Edt, Co, Mm, Mm, Mm, Mm
+Gg, Gg, Gg^Efm, Gg, Gg^Gvs, Ww, Gg, Ch, Ch, Ch, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg^Fmw, Rrc, Gg, Gs^Fms, Hh^Fms, Gg, Ss, Wo, Ss, Gg, Gg, Gs^Vc, Gg^Gvs, Gg, Gg^Em, Rrc, Rrc, Gg, Rp, Rp, Gd, Gd, Gd, Gd^Edt, Gd^Edt, Gd^Vo, Mm, Mm
+Gg, Gg, Gs^Vl, Gg^Gvs, Gg^Gvs, Wo, Gg, Gg, Rp, Gg, Gg, Gg^Fmw, Gg^Fmw, Gg, Gg^Gvs, 3 Gs^Vh, Gg^Gvs, Gg, Hh, Rrc, Gg, Gs^Fms, Hh, Ss, Ww^Ewl, Wo, Gg, Ss, Gg, Gg^Gvs, Gg^Efm, Gg^Gvs, Gs^Fms, Gs^Fms, Gg, Rrc, Gg, Gg, Hh, Hh, Gd, Gd, Gd^Esa, Mm, Mm, Mm
+Gg, Gg, Gg, Gg^Gvs, Gg, Wo, Gs^Fms, Gg, Rp, Gg, Gg, Gll^Fmw, Hh, Gg, Gg, Gg^Gvs, Gg, Hh^Fms, Gg, Rrc, Gg, Gg^Em, Ss, Ss, Ww, Ss, Ss, Ss, Ss, Gg, Gg^Eff, Gg^Eff, Gs^Fms, Gs^Fms, Gg, Rrc, Gg, Gg, Gg, Gd, Gd^Vo, Gd, Gd, Mm, Mm, Mm
+Gg, Gg, Gs^Fms, Gs^Fms, Gs^Fms, Ww, Gg, Gg, Rp, Gg, Gg, Hh, Hh, Hh^Fms, Hh, Gg, Gg, Hh^Em, Hh, Rrc, Gg, Gg, Gg^Em, Ss, Ss, Wwf, Wwf, Ss, Gg, Gg, Gg^Emf, Gg^Emf, Gg^Eff, Gg^Efm, Gg, Rrc, Rrc, Gg, Gg, Gg^Edb, Gg^Edb, Gd, Gd^Esa, Mm, Mm, Mm
+Gg, Gg, Gg^Efm, Gs^Fms, Gg, Ww, Gll^Fmw, Gg^Fmw, Mm, Rp, Rp, Hh, Hh, Md^Xm, Md^Xm, Hh^Fms, Gg^Em, Gg, Gg, Rrc, Gg, Gg, Gg, Ss, Ss, Ss, Ww^Ewl, Ss, Gg, Gs^Vc, Gg, Gg^Emf, Gg^Eff, Gg^Eff, Gg, Gg, Gg, Rrc, Rrc, Gg, Gg, Gg, Hh^Esa, Mm, Mm, Mm
+Gg, Gg^Efm, Gg^Efm, Ss, Wo, Wo, Mm, Mm, Rp, Mm, Mm, Rp, Rp, Hh, Hh, Md^Eb, Mm, Gg^Em, Gg, Rrc, Gg^Vhr, Gg^Gvs, Gg^Gvs, Gg^Em, Gg^Em, Ss, Ss, Wo, Wo, Gg, Wo, Gg, Gg, Gg, Hh, Gg, Hh, Gg, Gg, Rrc, Rrc, Gg, Gg, Gg, Rrc, Rrc
+Gg, Gg^Efm, Gg^Efm, Ss, Wo, Mm, Mm, Rp, Mm, Rp, Rp, Mm^Fmw, Mm, Rp, Rp, Hh, Md^Xm, Hh^Fmw, Gg, Rrc, Gg, Gg^Gvs, Gg, Gg, Gg, Gg, Gg, Gg, Ss, Wo, Gg, Wo, Wo, Gg, Gg, Gg, Gg, Gs^Fms, Gs^Fms, Gg, Rrc, Rrc, Rrc, Rrc, Gg, Gg
+Gg, Gg^Efm, Gs^Vl, Ww, Ss, Ss, Md^Xm, Rp, Cha, Mm, Mm, Rp, Rp, Mm, Rp, Hh, Md^Xm, Hh, Gg, Rrc, Rrc, Gg, Gg, Gg^Wm, Gg, Gg, Gs^Fms, Gg, Ss, Gg, Gg, Ss, Ww, Ss, Gg, Gg, Gg, Gs^Fms, Rrc, Rrc, Gg, Gg, Gg, Gg, Gg, Gg
+Gg, Gd, Gd, Ww, Md^Xm, Md^Xm, Md^Xm, Ha^Vhha, Ur, Kha, Mm, Md^Xm, Mm, Rp, Hh, Hh, Mm, Hh, Gg, Gs^Fds, Rrc, Hh, Gg, Gg, Hh^Fms, Gg, Gg^Emf, Gg, Gg, Gg, Gg, Ss, Wo, Ss, Gg, Gg, Rrc, Rrc, Gg, Gg, Gg^Vhr, Gg, Gs^Fms, Gg, Gg, Gg
+Gg, Gd, Uu, Md^Xm, Uu, Md^Xm, Md^Xm, Md^Xm, Ur, Ur, Mm, Md^Xm, Mm, Mm, Hh, Hh, Mm, Hh^Fmw, Gg, Gg, Gg^Edt, Rrc, Rrc, Gg, Gg^Fms, Gg, Hh, Gg^Vhr, Gg, Gg, Ss, Wo, Gg, Gg, Gg, Rrc, Gg, Gg, Hh, Gg, Gg, Gg, Gs^Fms, Gg, Ww^Ewl, Ww
+Gg, Md^Xm, Uh^Em, Uu, Md^Xm, Uu, Uu, Uu, Ur, Ur, Md^Xm, Md^Xm, Md^Xm, Mm, Mm, Hh^Esa, Md^Xm, Hh, Hh^Fmw, Gg, Gg, Gg^Edt, Gg, Rrc, Rrc, Gg^Edt, Gg^Edt, Hh^Fms, Gg, Gg, Wo, Wo, Ss, Gg, Gg, Rrc, Gg, Hh, Gg, Gg, Ww^Ewl, Ww, Ww, Ww, Gg, Gg
+Md^Xm, Md^Xm, Md^Xm, Md^Xm, Uu, Uhe^Em, Uu, Ur^Es, Uu^Es, Md^Xm, Tb, Md^Xm, Md^Xm, Md^Xm, Uu, Mm, Md^Xm, Hh, Hh, Hh, Hh, Hh^Fms, Gg, Gg^Fms, Gg, Rrc, Rrc, Gg, Hh^Fms, Gg, Ss, Ww, Ww^Ewl, Gg, Rrc, Rrc, Ww, Ww, Ww, Ww, Gg, Gg, Ss, Ss^Vhs, Ww^Ewl, Ww
+Md^Xm, Md^Xm, Md^Xm, Uu^Vu, Tb^Em, Uu, Ur^Edb, Ur^Edb, Uh^Em, Uu, Uu, Uu^Vu, Uu, Uu, Md^Xm, Md^Xm, Md^Xm, Hh^Fmw, Hh^Fmw, Hh, Hh, Hh, Chr, Gg^Edt, Rp, Rp, Gg^Edt, Rrc, Rrc, Gg, Gg^Vhr, Ss, Rrc, Wo^Bsb/, Wo, Ww, Gs^Fms, Gg, Ww, Gg, Ss, Gs^Fms, Ww, Ww, Ss, Ss
+Md^Xm, Md^Xm, Md^Xm, Tb, Uu, Uh^Em, Ur^Edb, Uh^Em, Uhe, Uu^Es, Uu, Uhe, Md^Xm, Md^Xm, Md^Xm, Mm^Eb, Md^Xm, Md^Xm, Md^Xm, Hhd^Vhhr, Hh, Hh, Chr, Khr, Hh, Gg, Gg, Gg^Edt, Gg, Rrc, Rrc, Rrc, Hh, Gg, Gd, Wo, Wo, Ww, Gg^Em, Ww, Ww, Ww, Ww^Ewl, Gg^Em, Ss, Gg
+Gg, Md^Xm, Uh, Uu, Md^Xm, Uu, Ur, Uu, Md^Xm, Uhe, Uhe, Uh, Ur, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Hh, Hh, Chr, Hh, Hh, Gg, Gg, Hh^Fmw, Gg, Gg, Rrc, Rrc, Gd, Hh^Fds, Hh, Gd^Edt, Wo, Wo, Ss, Gg, Gs^Fms, Ss, Ww, Ww^Ewl, Gg
+Gg, Md^Xm, Ur, Uh, Md^Xm, Md^Xm, Ur, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Ur, Uu, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Mm, Uu, Md^Xm, Uu, Hh, Hh, Hh, Hh, Hh^Fmw, Hh, Gg, Gg, Gd^Fetd, Gd, Rrc, Rrc, Gg, Gd^Edt, Gd^Vo, Gd, Wo, Ww, Gs^Fms, Gs^Fms, Ss, Gs^Fms, Ww
+Md^Xm, Md^Xm, Ur, Uh, Md^Xm, Md^Xm, Ur, Md^Xm, Rb^Es, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Uh, Uu, Uu, Uu, Uh, Uu, Uu, Uu, Uu, Md^Xm, Md^Xm, Md^Xm, Gg^Efm, Hh, Hh, Hh, Gg, Gg, Gd, Hh^Fds, Gd, Gd, Rrc, Rrc, Gd, Gd^Fetd, Gd, Gd^Edt, Ww, Ww, Gs^Fms, Gg^Em, Gg
+Md^Xm, Uh, Ur, Md^Xm, Hh, Rb, Ur, Rb, Rb, Rb^Es, Md^Xm, Md^Xm, Md^Xm, Uh, Tb, Md^Xm, Md^Xm, Uu, Uu^Edb, Uu, Uu^Vu, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Hh^Esa, Gg^Vhhr, Gg, Hh, Hh^Fetd, Hh^Fds, Gd, Gd, Gd^Fetd, Gd, Rrc, Rrc, Gd^Edt, Gd^Edt, Gd, Gd, Wo, Wo, Gg
+Md^Xm, Md^Xm, Md^Xm, Hh, Rb, Rb^Fetd, Ur, Rb, Rb^Fetd, Hh, Hh, Md^Xm, Md^Xm, Md^Xm, Tb, Uh, Md^Xm, Uh, Uh, Uu^Edb, Tb, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Ha, Gg, Hh, Hh, Hh, Gg, Hh, Gd, Gd, Gd^Edt, Gd^Edb, Rrc, Co, Co, Co, Gd^Edt, Gd^Edb, Wo
+Re, Md^Xm, Rb, Re, Re^Es, Rb^Es, Cte, Rb^Es, Rb^Es, Re, Wwg, Md^Xm, Md^Xm, Md^Xm, Ur, Uh, Md^Xm, Md^Xm, Md^Xm, Tb, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Ms^Eb, Ha, Md^Xm, Md^Xm, Gg^Efm, Hh^Fmw, Gg^Efm, Hh, Hh, Hh^Fds, Gg^Vo, Gd^Edt, Gd, Gd^Edt, Co, 7 Ko, Co, Gd^Edt, Gd, Gd
+Re, Hhd^Vhhr, Rb, Rb^Fetd, Re^Es, Cte, 2 Kte, Cte, Wwg, Wwg, Hh, Hhd^Vhhr, Ur^Edb, Ur^Edb, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Hh^Fmw, Hh, Hh, Hh, Hh, Hh, Re, Re, Co, Gd, Rrc, Rrc, Gd
+Gg, Hh, Hh, Rb^Es, Re^Es, Cte, Cte, Cte, Wwg, Hh, Hh, Re^Es, Rb^Es, Ur^Es, Hhd^Vhhr, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Gd, Hh^Fmw, Hh, Hh^Fmw, Hh, Hh, Hh, Hh, Gd^Edt, Gd^Edt, Rrc
+Gg, Hh, Re, Re, Re^Es, Rb^Es, Rb^Es, Rb^Es, Wwg, Hh, Hh, Rb^Feth, Ur, Ur, Re^Es, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Eb, Md^Xm, Gd^Esa, Hh^Fmw, Hh, Hh, Hh^Fmw, Hh^Fmw, Hh, Hh, Gd^Vo, Gd, Gd
+Gg, Hh, Re, Hh, Re, Re, Rb, Rb, Wwg, Re, Gg, Re, Ur, Re, Re, Md^Xm, Md^Xm, Md^Xm, Gg, Md^Xm, Md^Xm, Md^Xm, Gg, Md^Xm, Gg, Md^Xm, Gg, Md^Xm, Gg, Md^Xm, Md^Xm, Md^Xm, Gg, Md^Xm, Gg, Hh, Gg, Hh, Gg, Hh, Gg, Hh, Gg, Gd, Gd, Gd
+"
+name="Dunharrow"
+victory_when_enemies_defeated=yes
+[time_area]
+	current_time=0
+	id="Jaskinie"
+	x="1,2,2,3,3,4,4,5,6,7,8,9,9,10,11,12,12,13,13,13,14,14,15,15,16,17,18,19,20,21,22"
+	y="28,20-21,25-28,21,23-27,20,22-24,21-25,21-26,21-25,19-24,20-21,23-25,22-25,23-25,23,25,23,26-28,31,22,26-30,27,29-30,27,27-29,27-29,27-30,26-29,27,26"
+	[time]
+		blue=-25
+		green=-45
+		id="underground"
+		image="misc/time-schedules/schedule-underground.png"
+		lawful_bonus=-25
+#textdomain wesnoth-help
+		name=_"Underground"
+		red=-60
+	[/time]
+[/time_area]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Erech"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=6
+	y=31
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Ścieżka Umarłych"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=7
+	y=21
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Edoras"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=8
+	y=10
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Dunharrow"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=9
+	y=19
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Niedobitki Isengardu"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=14
+	y=2
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Snowbourn"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=14
+	y=8
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Aldburg"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=23
+	y=24
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Entwash"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=31
+	y=17
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Elfy"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=36
+	y=3
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Orki z Emyn Muil"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=41
+	y=9
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Zwiadowcy Mordoru"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=41
+	y=30
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Ściana Wschodnia"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=43
+	y=6
+[/label]
+[side]
+	controller="ai"
+	fog=no
+	gold=100
+	hidden=no
+	income=12
+	no_leader=no
+	share_vision="all"
+	shroud=no
+	side=1
+	team_name=1
+[/side]
+[side]
+	controller="ai"
+	fog=no
+	gold=100
+	hidden=no
+	income=12
+	no_leader=no
+	share_vision="all"
+	shroud=no
+	side=2
+	team_name=2
+[/side]
+[side]
+	controller="ai"
+	fog=no
+	gold=100
+	hidden=no
+	income=12
+	no_leader=no
+	share_vision="all"
+	shroud=no
+	side=3
+	team_name=3
+[/side]
+[side]
+	controller="ai"
+	fog=no
+	gold=100
+	hidden=no
+	income=12
+	no_leader=no
+	share_vision="all"
+	shroud=no
+	side=4
+	team_name=4
+[/side]
+[side]
+	controller="ai"
+	fog=no
+	gold=100
+	hidden=no
+	income=12
+	no_leader=no
+	share_vision="all"
+	shroud=no
+	side=5
+	team_name=5
+[/side]
+[side]
+	controller="ai"
+	fog=no
+	gold=100
+	hidden=no
+	income=12
+	no_leader=no
+	share_vision="all"
+	shroud=no
+	side=6
+	team_name=6
+[/side]
+[side]
+	controller="ai"
+	fog=no
+	gold=100
+	hidden=no
+	income=12
+	no_leader=no
+	share_vision="all"
+	shroud=no
+	side=7
+	team_name=7
+[/side]

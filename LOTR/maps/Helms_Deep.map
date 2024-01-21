@@ -1,0 +1,190 @@
+# This file was generated using the scenario editor.
+#
+# If you edit this file by hand, then you shouldn't use the
+# scenario editor on it afterwards. The editor completely
+# rewrites the file when it saves it, which will lose any WML
+# that the editor doesn't support.
+
+description=""
+id="Helms_Deep_scen"
+map_data="Gd, Gd, Gd, Gd, Gd, Gd, Ms^Xm, Ms^Xm, Ms^Xm, Gg, Ms^Xm, Gg, Ms^Xm, Ms^Xm, Ms^Xm, Gg, Ms^Xm, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gll^Fmf, Gg, Gll^Fmf, Gg, Gg, Gg, Gll^Fmf, Gg, Gll, Gll, Gll, Gg, Gll, Gg, Gg, Gg, Gg, Gg
+Gd, Gd, Gd, Gd, Gd, Gd, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Gg, Gg, Gg, Gg, Gg, Gg, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gg, Cv, 5 Kv, Cv, Gll^Fmf, Gg, Gll, Gg, Gg, Gll^Fmf, Gll^Edt, Ce, Gll^Fmf, Gll^Edt, Gll
+Gd, Gd, Gd, Gd, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Gg, Mm^Xm, Gg, Gg, Gg, Gg, Gll^Fmf, Gll^Fmf, Gg^Ve, Gll^Fmf, Gll^Feth, Gll^Fmf, Cv, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gg, Gll^Fmf, Gg, Re^Vct, Ce, Ket, Ce, Gll^Fmf, Gg
+Gd, Gd, Gd, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Aa, Ha^Fma, Gg, Gg^Fpa, Mm^Xm, Gg, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Gll^Fmf, Kvr, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gs^Efm, Gll^Fmf, Gll^Fmf, Gg^Ve, Gll, Gll, Gg, Ce, Ce, Ce, Gll^Fmf, Gg
+Gd, Gd, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Aa, Ha^Fma, Hh, Hh, Wog, Hh^Fpa, Hh^Esa, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Gll^Fmf, Cvr^Fmf, Cvr, Gll^Fmf, Gll, Gll^Em, Gll^Fmf, Gll^Fmf, Gs^Efm, Gs^Efm, Gll^Fmf, Gll^Fmf, Gg, Gs, Gll^Fmf, Rp, Re^Vct, Gg, Gg
+Gd, Gd, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ha, Ha^Fpa, Ha, Wog, Hh^Esa, Wwg, Wwg, Gg, Gg, Hh, Mm^Xm, Hh, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gd^Fetd, Gll^Fmf, Gs, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gg, Gg, Gs^Efm, Rp, Gg, Gg, Gg
+Gd, Gd, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Hh, Ha, Ha, Hh, Wog, Wwg, Gll^Fp, Gll^Fp, Gg, Gg, Hh^Fp, Hh, Hh, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gll, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gs, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gs^Efm, Gll^Fmf, Gg, Gs^Efm, Rp, Gg, Gg, Gll^Fmf
+Gd, Gd, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Rp, Ms^Xm, Ms^Xm, Aa^Voa, Gd, Ha^Fpa, Hh^Fp, Ha, Xuc, Wog, Wog, Wog, Hhd, Gg, Hh, Hh, Mm^Xm, Hh, Mm^Xm, Gll^Fmf, Gd^Fetd, Gll^Fmf, Gll^Fmf, Gll, Gg^Fet, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gg, Gg, Gg, Rp, Gg, Gg, Gll^Fmf
+Gd, Gd, Ms^Xm, Ms^Xm, Ms^Xm, Ms^Xm, Rp, Ms^Xm, Ms^Xm, Rr^Pr/, Cha, Qxe, Gd, Hh, Hh, Hh^Esa, Gd, Xuc, Xuc, Hhd, Hh, Hh, Hh^Fp, Hh^Fp, Mm^Xm, Mm^Xm, Mm^Xm, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gll^Em, Gll, Gll^Fmf, Gll^Fmf, Gll^Feth, Gg, Gs, Rp, Gs^Efm, Gg, Gg
+Ha, Ms^Xm, Ms^Xm, Ms^Xm, Rp, Ms^Xm, Ms^Xm, Rr^Pr/, Rd^Edt, Cha, 1 Kha, Cha, Qxe, Gd, Gd, Gd, Wog, Hhd, Wog, Xuc, Hhd, Hh, Hhd, Gg, Mm^Xm, Mm^Xm, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gll^Em, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gg, Gg, Gg, Gs, Rp, Gs^Efm, Gg, Gg
+Ha, Ms^Xm, Rp, Ms^Xm, Ms^Xm, Rr^Pr/, Rd^Edt, Rd, Rd^Edt, Cha, Rra, Cha, Rd^Edt, Rd, Wog, Wog, Hhd, Wog, Hhd^Fp, Hhd, Hhd^Fp, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gll^Fmf, Gg, Gg, Gg, Gll^Fmf, Gg, Gll^Fmf, Gg, Gg, Gg, Gs, Rp, Gs, Ww, Gg
+Ha, Ms^Xm, Ms^Xm, Rr^Pr/, Hh^Edt, Hh, Hh, Rd, Rd^Edt, Qxe, Rra, Qxe, Gs, Rd, Wog, Gg, Gs, Hhd, Ha^Fma, Hhd, Hhd^Es, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Co, Gll^Fmf, Gg^Edb, Gg, Gg, Gg, Re, Gg, Gs, Gs, Gs, Gg, 4 Gg, Gg, Ww, Ww, Ww^Bsb|, Ww, Gg, Ww
+Ha, Ha, Hh^Fp, Hh, Hh, Hh^Es, Gd^Vo, Rd, Rd, Gg^Es, Rra, Gg, Gs^Es, Wog, Ds, Gs, Gg, Gg, Md^Xm, Hhd, Md^Xm, Md^Xm, Md^Xm, Mm^Xm, Co, 3 Ko, Co, Gg^Edb, Gg, Gg, Gs, Re, Gs, Gll^Fmf, Gs, Gs, Gs, Gg, Ww, Ww, Gg, Gg, Rp, Gg, Gs^Fds, Gg
+Ha, Ha, Hh, Hh, Hh^Fp, Hh, Gg, Rd, Rd^Es, Rd, Rra, Gs, Gs, Wog, Gs, Gs, Gs, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Gg^Edb, Gg^Edb, Co, Gs^Edb, Gg^Edb, Gs, Gs, Gll^Fmf, Gs, Gs, Gs, Gs, Gll^Fmf, Ss, Ww, Gg, Gg, Gg, Gs^Vc, Rrc, Gg, Gs^Fds, Gg
+Ha, Ha, Ha, Hh, Hh^Fp, Hh, Gg, Rd, Rd, Rra, Rd, Gs, Gd^Vo, Wog, Gg, Gs, Md^Xm, Md^Xm, Md^Xm, Md^Xm, Hhd^Vo, Md^Xm, Gg, Gg^Edb, Gg, Gs^Edb, Gs, Gs, Gs, Gll^Fmf, Gs, Gs, Gg, Gs, Gg, Gg, Ww, Ww, Gg, Gg, Gg^Efm, Gll^Fmf, Rrc, Gg, Gg, Gg
+Hh, Hh^Es, Hh, Hh^Em, Hh, Hh, Hh, Rd, Rd, Rra, Rd, Ds, Wwg, Wog, Gg, Gs, Md^Xm, Md^Xm, Md^Xm, Hhd, Hhd, Hhd^Es, Gg, Gg^Es, Gg, Gs, Gs, Gs, Gs, Gs, Gg, Gg, Hh, Hh, Hh^Fds, Ww, Ss, Ss, Gll^Fmf, Gll^Fmf, Rrc, Rrc, Gg, Gg, Gg, Gg
+Hh, Hh^Fp, Hh, Ha, Hh^Fp, Hh, Hh^Fp, Gg, Rra, Rra, Gll^Fp, Ds, Wog, Rd, Rd, Hhd, Hhd, Md^Xm, Hhd^Fp, Hhd, Hhd^Es, Hhd^Es, Gs, Gg, Gs, Gg, Hh^Fp, Gg, Hh^Fp, Gg, Gg, Gg, Gg, Hh, Hh^Fds, Ww, Gg, Gg, Rrc, Rrc, Gs^Vh, Rrc, Rrc, Gs^Fds, Rrc, Gg
+Gg, Hh, Gg, Ha, Hh, Hh, Hh^Em, Gg, Rra, Gg, Gll^Fp, Gg, Wog, Rd, Rd, Hhd^Fp, Re^Vct, Hhd, Gs, Gs, Gs, Gs, Gs, Gs, Gs, Gs, Hh^Fp, Hh, Hh^Es, Gg, Gg^Es, Gg^Es, Gg, Hh, Ww, Ww, Rrc, Rrc, Gg^Eff, Gg^Eff, Gg^Gvs, Gg, Gs^Fds, Rrc, Gg, Rrc
+Gg, Gg, Gg, Gg, Gg, Re^Vct, Gs, Gg, Rra, Gg, Gg, Gg, Wwg, Rd, Rd, Rd, Gg, Gs, Gs, Gs, Gs^Es, Gs^Es, Gs, Gs, Gs, Gs, Gg, Hh^Es, Gg, Gg, Gg, Gg, Rrc, Gg, Ww^Bsb/, Rrc, Gg, Gg, Hh, Gg^Gvs, Gg^Gvs, Gg^Gvs, Gs^Fds, Gg, Gg, Gg
+Gg, Gg, Ket, Ce, Gg, Gg, Gs, Gs, Rra, Gg, Wwf, Wwf, Ch, Wwf, Gg, Gg, Rp, Gs, Gs, Gs, Gg^Eff, Gg^Eff, Rrc, Gg, Gg, Gg, Gg, Gg, Rrc, Rrc, Rrc, Rrc, Gg, Rrc, Ww, Gg, Gg, Hh^Fds, Hh, Hh^Fds, Gs^Eff, Gs^Eff, Gs, Gs, Gg, Gg
+Gg, Gg, Gg, Ce, Rra, Rra, Rra, Rra, Gs, Rra, Wwf, Rp, Rp, Wwf, Rp, Rp, Gg, Rrc, Rrc, Gg^Eff, Rrc, Rrc, Gs^Vl, Rrc, Rrc, Rrc, Rrc, Rrc, Gg, Gg, Gg, Gg, Gg^Es, Gg, Ww, Gg, Gg, Hh, Gg, Gg, Gs, Gs, Gs, Gs, Hh, Gg
+Rra, Rra, Rra, Rra, Ss, Ss, Wog, Re^Vct, Wog, Gg, Wog, Ch, Wwf, Wwf, Mm^Xm, Gg, Mm^Xm, Mm^Xm, Gg, Rrc, Gg, Gg, Gg^Es, Gg, Rp, Gg, Gg, Gs^Vc, Hh, Gg, Gg, Gg^Es, Ww, Ww, Gg, Gg, Gg, Gg, Hh, Gg, Gg, Gs, Gg, Hh, Hh, Hh
+Wog, Gg, Wog, Gg, Wog, Wog, Ss, Wog, Gg, Wog, Wwg, Wog, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Gg, Gg, Mm^Xm, Gg^Es, Gg, Gg, Rp, Gg, Hh, Hh^Fp, Hh^Fp, Hh, Ss, Ww, Gg, Gg, Gg, Gg, Gs, Hh, Hh, Hh, Gg, Gg, Hh, Hh^Fdw, Hh^Fds, Hh
+Ds, Wog, Ds, Wog, Ss, Gg, Gg^Es, Gg, Ss, Ds, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Gg, Gs^Vc, Gg, Mm^Xm, Gs, Gg, Gs, Rp, Gs, Hh, Hh, Hh, Hh^Fdw, Hh, Ww, Ww, Gg, Gg, Gs, Gs, Hh^Fds, Hh, Hh^Fdw, Hh, Hh, Hh, Hh^Fdw, Hh^Fdw, Hh, Hh
+Gg, Gg, Gg, Gg, Gg, Gg, Gs^Fds, Gg, Gg, Mm^Xm, Gll^Fp, Gll^Fp, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Gg, Gg, Gg, Gg, Gs, Gs, Rp, Rp, Gs, Hh, Hh, Hh, Hh, Ww, Hh, Hh^Fds, Hh, Gs, Hh^Fdw, Hh, Hh, Hh^Fds, Gs, Hh, Hh^Fdw, Hh, Hh^Fds, Hh, Gs, Gg
+Gg, Ss, Ss, Ds, Ds, Ds, Ss, Ss, Mm^Xm, Mm^Xm, Mm^Xm, Gll^Fp, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Gg, Gg, Gg, Gs, Gs, Gs, Rp, Gs, Gs, Gs, Gs, Hh, Hh, Ss, Hh, Hh, Hh^Fds, Hh, Hh, Hh, Hh^Fds, Hh, Gs, Hh, Hh, Hh, Gs, Gs, Gg, Gg
+Gg, Gg, Gg, Gg, Gs^Fds, Gg, Gg, Gg, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Gs, Gg, Xos^Dr, Gs, Xos^Dr, Gs, Rr^Pr|, Gs, Xos^Dr, Gs, Xos^Dr, Gs, Hh, Gs, Hh^Fds, Hh, Gg, Hh, Hh^Fds, Hh, Hh, Gg, Gs, Gs, Hh, Gg, Gg, Gs, Hh^Fdw, Gg
+Gg, Gs^Fds, Gg, Gg, Gs^Fds, Gg, Gg, Gg, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Hh, Ch, Ch, Ch, Ch, Rrc, Ch, Ch, Ch, Ch, Hh, Hh, Hh^Fds, Hh, Hh, Gs, Hh, Hh^Fds, Hh^Fdw, Gg, Gg, Gs, Hh, Hh, Hh, Hh, Hh^Fdw, Hh^Fdw, Hh
+Gg, Gg, Gg^Efm, Gg^Efm, Gg, Gg^Efm, Gg, Gg, Gg^Efm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Mm^Xm, Mm^Xm, Mm^Xm, Hh, Hh, Hh, Mm^Xm, Gs, Gg, Gs, Gg, Gll^Fdw, Gg, Hh^Fds, Hh^Fdw, Hh, Hh, Hh^Fdw, Hh, Hh
+Gg, Gg, Gs^Fds, Gs^Fds, Gg^Efm, Gg, Gg, Gg, Gg, Gg, Gg, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Rr^Vhc, 2 Kh, Rrc^Bsb/, Rrc, Rrc, Rrc, Rrc, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Gll^Fdw, Aa^Fpa, Gg, Gg, Hh^Fdw, Hh^Fds, Hh, Gg, Gg
+Gg, Gg, Gs^Fds, Gg, Gg^Efm, Gs^Fds, Gs^Fds, Gg^Efm, Gg, Gs^Fds, Gg, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Ch, Ch, Ch, Rr^Vhc, Rrc, Mm^Xm, Rr^Vhc, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Gs, Gs, Gg, Gg, Gg
+Gg, Gg, Gg^Efm, Gg, Gs^Fds, Gg^Efm, Gg, Gs^Fds, Gg, Gg, Gg, Gg, Gg, Gg, Mm^Xm, Md^Xm, Md^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Urb, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Gs, Mm^Xm, Mm^Xm, Mm^Xm, Gg
+Gg, Gg, Gg, Gg, Gs^Fds, Gg^Efm, Gg, Gg^Efm, Gg, Gg^Efm, Gg, Gs^Fds, Gg, Gg, Gg, Mm^Xm, Md^Xm, Uu, Uu, Mm^Xm, Urb, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Gg
+Gg, Gg, Gg, Gg^Efm, Gg, Gg, Gg, Gg, Gs^Fds, Gg, Gg, Gs^Fds, Gg, Gg, Gg, Mm^Xm, Uu, Uu, Md^Xm, Uu, Md^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm
+Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Mm^Xm, Uu, Md^Xm, Gg, Md^Xm, Gg, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Gg, Mm^Xm, Gg, Mm^Xm, Gg, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Mm^Xm, Gg, Mm^Xm, Mm^Xm, Mm^Xm
+"
+name="Helms_Deep_scen"
+victory_when_enemies_defeated=yes
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Isena"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=4
+	y=22
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="To co jest tutaj jest nieistotne"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=6
+	y=28
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Isengard"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=10
+	y=9
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Brody tutaj na Brodzie"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=12
+	y=20
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Isena"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=13
+	y=13
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Jaskinie"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=17
+	y=32
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Tama"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=18
+	y=8
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Helmowy Jar"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=22
+	y=23
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Wiec Entów"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=28
+	y=3
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Fangorn"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=32
+	y=5
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Obóz Eomera"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=42
+	y=2
+[/label]
