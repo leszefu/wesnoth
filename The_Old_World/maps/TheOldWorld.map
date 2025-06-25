@@ -1,0 +1,1054 @@
+map_data="Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Wo, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Wo, Aa, Aa, Aa, Aa, Aa, Aa, Ql, Aa, Aa, Gg, Qxua, Aa, Ql, Ww, Aa, Aa, Mv, Gg, Hhd, Gg, Mm, Mm, Ms, Gg, Xv, Xv, Xv, Xv, Xv, Gg
+Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Wo, Ai, Ai, Ai, Wo, Ai, Aa, Aa^Dr, Aa^Esd, Aa^Esd, Qxua, Ql, Aa^Dr, Rr^Pr|, Aa^Fma, Aa^Br|, Aa^Dr, Ql, Aa, Ww, Aa^Edt, Aa^Dr, Qxua, Mv, Hhd, Ms, Ms, Ms, Ms, Ms, Ms, Xv, Xv, Xv, Xv, Xv
+Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Wo, Ai, Wo, Ai, Wo, Wo, Wo, Ai, Ai, Ai, Ai, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ai, Wo, Wo, Ai, Wo, Wo, Wo, Wo, Wo, Wo, Aa, Aa, Aa, Gd^Edt, Gd^Em, Gd, Aa, Aa, Aa^Fma, Aa^Esd, Aa, Aa, Gd, Ww, Aa^Voa, Aa^Edt, Aa^Edt, Aa^Fma, Hh, Ms, Ms, Ms, Ms, Ms, Ms, Xv, Xv, Xv, Xv, Xv
+Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ai, Ai, Wo, Wo, Wo, Wo, Aa, Aa, Ss, Wo, Aa, Wo, Wo, Aa, Aa, Wo, Gs, Wo, Wo, Wo, Wo, Aa, Aa^Voa, Rb, Rb, Gd^Efm, Gd^Eb, Aa^Dr, Gg^Dr, Gg^Esd, Gd, Gg^Esd, Ww, Ww, Rb, Gg^Em, Gg^Emf, Ww, Ss, Hh, Ms, Ms, Ms, Ms, Ms, Xv, Xv, Xv, Xv, Xv
+Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Aa, Aa, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Aa, Aa, Aa, Aa, Ss, Gs, Gs, Gs, Gs, Gll^Fdw, Aa, Gs, Aa, Aa, Wo, Wo, Ww, Ww, Gd^Esd, Gd^Esd, Rb, Rb, Gd^Esd, Gd^Esd, Gd, Gg^Edt, Gd^Br\, Ww, Rb, Gg^Eb, Gd^Esd, Ww, Ww, Hh^Fp, Hh^Fp, Mm, Ms, Ms, Ms, Ms, Ms, Ms, Mm, Xv, Xv
+Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gs, Aa, Gs, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gs, Gs, Gs, Gs, Aa^Fma, Aa^Fma, Aa^Fma, Rrc^Vhca, Gs^Fms, Gll^Fdw, Gll^Fdw, Aa, Aa, Gll^Fmf, Gll^Fmf, Gs, Gs, Gs, Aa, Ww, Ww, Gd^Efs, Gd^Esd, Rb, Ww^Bsb\, Ww, Ww, Ww, Ww, Rb, Ww, Ww, Gs^Fms, Ww, Ww, Hh^Fp, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Xv, Xv
+Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Wo, Ai, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Hh, Gll^Fmf, Gll^Fmf, Gll^Fmf, Wwr, Hh, Wo, Gs, Wo, Wo, Wo, Gs, Gs, Gg, Aa^Fma, Aa^Fma, Gll^Fdw, Gll^Fdw, Rra, Gs^Fms, Gs^Fms, Hh, Gll^Fdw, Gll^Fmf, Gll^Fmf, Gs^Fms, Gs^Fms, Gs^Fms, Aa, Gg, Aa, Gg, Ww, Ww, Ww, Gg, Rb, Gg, Ss, Gg^Edb, Ww^Bsb|, Gg, Gll^Fp, Gs^Fms, Mm, Mm, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Xv, Xv
+Ai, Ai, Ai, Ai, Ai, Ai, Wo, Wo, Ai, Ai, Ai, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Aa, Wo, Aa, Aa, Gg, Gg, Wo, Gg, Ww, Ww, Ww, Gg, Gs^Fms, Gs, Gll^Fmf, Gs, Wo, Gs, Gg, Gll^Fmf, Gg, Hh^Fms, Gll^Fdf, Gll^Fdf, Gll^Fdf, Rra, Gll^Fmf, Mm, Mm, Mm, Mm, Hh, Mm, Hh, Mm, Gs^Fms, Gs^Fms, Gg, Gg, Gg, Gg, Gg, Gll^Fp, Rb, Rra, Gg, Rra, Rb, Gg^Em, Gs^Fms, Gg, Hh, Mm, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Xv, Xv
+Ai, Ai, Ai, Ai, Wo, Wo, Wo, Wo, Wo, Ai, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gs, Gs, Gg, Gll^Fmf, Gg, Gg, Ww, Gg, Gg, Ww^Bsb/, Rr^Vhc, Mm, Gg, Gg, Wo, Wo, Wo, Gg, Gg, Hh, Gll^Fdf, Gs^Fms, Gg, Gll^Fmf, Rr^Vhc, Gs^Fms, Gll^Fmf, Mm, Mm, Mm, Mm, Cha, Mm, Mm, Mm, Kha^Vov, Cha, Gs^Fms, Gg, Gg, Gll^Fp, Gll^Fp, Gg, Chr, Chr, Chr, Gg, Ss, Gll^Fp, Gg, Hh, Ww, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ai, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gs, Gs, Gg, Gll^Fmf, Gll^Fmf, Gg, Gg, Rrc, Rrc, Ww, Rrc, Rrc, Mm, Mm, Gg, Gg, Wo, Gg, Gll^Fmf, Gg, Gll^Fmf, Gll^Fmf, Gll^Fmf, Rrc, Rrc, Ww, Mm, Mm, Mm, Mm, Hh, Rp, Ww, Mm, Mm, Gs^Fms, Gs^Em, Gg, Gs^Fms, Gs^Fms, Gg, Ww, Gg, Chr, 2 Khr^Vov, Chr, Ss, Ww, Ss, Ww, Ww, Mm, Mm, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ai, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Aa, Gg, Gs, Gs, Hh, Hh, Gg, Rrc, Rrc, Gs^Fms, Gll^Fmf, Ww, Ww, Ww, Rrc, Qxu^Bs\, Gg, Rrc, Ww, Ww, Gg, Ss, Gg, Gg, Gg, Rrc, Gg, Ww, Gg, Mm, Mm, Mm, Gg, Rp, Ww, Gg, Hh, Gg, Gg, Ww, Gg, Ww, Ww, Gs^Fms, Ww, Ww, Chr, Ww, Ww, Ss, Ww, Mm, Mm, Mm, Mm, Mm, Ms, Ms, Ms, Mm, Ms, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ai, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gs, Gs^Fds, Hh, Gg^Em, Gs^Em, Rr^Vhc, Gs^Fms, Gs^Fms, Gg, Mm, Gg, Gg, Mm, Mm, Rrc, Gg, Rr^Vhc, Rr, Ww, Ww, Ss, Gg, Gg, Rrc, Gg, Ww, Gg^Efm, Gg, Mm, Gs^Fms, Gs^Fms, Gs^Fms, Ww^Bw\, Rrc, Rr^Vhc, Ww, Ww, Gg, Ww, Ww, Gg, Rr^Vhc, Rb, Gs^Fms, Ww, Gg, Ww, Ww, Gll^Fp, Ww, Mm, Ww, Mm, Mm, Mm, Mm, Mm, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gs, Gg, Gs^Fms, Gs^Fms, Gg, Gs^Fms, Rrc, Gs^Fms, Hh^Fms, Gg, Gg, Ww, Mm, Mm, Mm, Mm, Gg^Es, Gg^Es, Rr, Ww^Bw/, Rr, Rr, Rrc, Gg, Gg^Efm, Ww, Gg, Ww, Ww, Gg, Gs^Fms, Rrc, Ww^Bsb/, Ww, Ww^Bsb\, Rrc, Gg, Gs^Fms, Gg, Rrc, Ww^Bsb/, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gg, Gg, Ww, Gg, Ww, Mm, Mm, Mm, Mm, Mm, Mm, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gs^Fms, Gs^Fms, Gg, Gg, Gg, Gs^Fds, Rrc, Gg, Hh, Ww, Ww, Gs^Fms, Mm, Mm, Mm, Mm, Mm, Mm, Rr, Ww, Gg, Gg, Rrc, Ww, Ww, Gg, Ww, Rrc, Gg, Rrc, Rrc, Gg, Gg, Ww, Rr^Vhc, Gs^Fms, Rrc, Rrc, Rrc, Gs^Fms, Ww, Ww, Gs^Fms, Gg, Gs^Fms, Gs^Fms, Gs^Fms, Gll^Fp, Gll^Fp, Gs^Fms, Mm, Uu^Vud, Mm, Mm, Mm, Mm, Mm, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gg, Wo, Gs^Fms, Gg^Em, Gg, Gs^Fds, Rrc, Hh, Hh, Ww, Gs^Fms, Gs^Fms, Gs^Fms, Wo, Hh, Hh, Mm, Mm, Gg, Ww, Gg, Gg, Rrc, Ch, Gg, Rrc, Rrc, Gg^Efm, Rrc, Ww, Gg, Ww, Ww, Gg^Gvs, Gg^Gvs, Gg, Rrc, Gs^Fms, Gg, Gs^Fms, Gg, Gg, Ww, Ww, Gg, Gg, Gg, Gg, Gs^Fp, Gg, Rp, Mm, Mm, Mm, Mm, Mm, Mm, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gg, Gs^Fms, Gg, Gg, Rrc, Gg, Ww, Gs^Fms, Gs^Fms, Wo, Wo, Ss, Wo, Wo, Hh, Hh, Ww, Gg, Ww, Ww, Ch, 1 Kh^Vov, Ch, Ww, Ww, Ww, Ww, Gg^Efm, Ww, Gs^Fms, Gg^Wm, Gs^Fms, Gs^Fms, Gs^Fms, Rrc, Gs^Fms, Gs^Fms, Gs^Fms, Ss, Ss, Ss, Ww, Gg, Ww, Ww, Ww, Ww, Ww, Rp, Rp, Rp, Rp, Rp, Rp, Mm, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gg^Em, Rp, Rp, Gg, Ww, Gg, Gs^Fms, Wo, Ss, Gg, Ss, Wo, Gg, Ww, Mm, Mm, Gg, Gg, Ch, Ch, Ch, Gs^Fms, Gg, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Gg^Em, Gg^Em, Wo, Rrc, Rrc, Gs^Fms, Gs^Fms, Ss, Gs^Fms, Gg^Em, Gg^Em, Ww, Gg, Mm, Mm, Gg^Em, Mm, Mm, Mm, Gll^Fp, Mm, Gg^Fp, Mm, Rp, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gg, Rp, Gg, Wo, Wo, Wo, Wo, Gg, Gg, Gg, Gg, Gg, Wo, Gg, Mm, Kfr^Vov, Mm, Mm, Gg, Rrc, Wo, Wo, Gs^Fms, Gg, Gs^Fms, Wo, Gg, Wo, Gg^Em, Wo, Wo, Rrc, Wo^Bsb/, Gs^Fms, Ss, Gs^Fms, Ss, Gs^Fms, Gs^Fms, Ss, Ww, Ww, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Gg, Mm, Gg, Mm, Mm, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo^Bw|, Wo, Gg, Gg, Gs^Fms, Gg, Ww, Ww, Mm, Mm, Mm, Wo, Wo, Gg^Es, Gg^Es, Cf, Qxu^Bcx/, Gg, Gg, Rrc, Rrc, Wo, Wo, Wo, Gg, Wo, Gg^Efm, Wo, Gg, Rr^Vhc, Rp, Wo, Gg, Gg, Gg, Ss, Ss, Ss, Gs^Fms, Gg^Em, Gg, Ww, Mm, Uu^Vud, Mm, Mm, Mm, Gg, Gg, Gg^Fp, Mm, Mm, Mm, Mm, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gg, Rp, Gg, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Ww, Gg, Gg, Ww, Gs^Fms, Mm, Mm, Wo, Wot, Gg, Rr^Vhc, Mm, Mm, Gg, Gg, Rrc, Ww, Gg, Gs^Fms, Gs^Fms, Gs^Fms, Gg^Wm, Gs^Fms, Gg, Rp, Wo, Wo, Wo, Wo, Wo, Wo, Ss, Ss, Ss, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Gg, Gg, Gg, Mm, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gg, Rr^Vhc, Gs^Fms, Ww, Gs^Fms, Ww, Gs^Fms, Ww, Gs^Fms, Gs^Fms, Ww, Gs^Fms, Mm, Mm, Gg^Fet, Wot, Gg, Gs^Fms, Mm, Mm, Mm, Ww, Ww^Bsb|, Rr^Vhc, Ww, Ww, Gs^Fms, Gg, Gs^Fms, Gg, Gs^Fms, Gs^Fms, Rp, Khs^Vov, Sm, Sm, Sm, Sm, Wo, Wo, Gg^Em, Mm, Mm, Mm, Mm, Mm, Mm, Gg^Fp, Gg, Gg, Gg^Fp, Gg, Gg, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ww^Bsb\, Rr, Ww, Gg, Ww, Gg^Eff, Ww, Ww, Ww, Ww, Ww, Gg^Es, Gg^Em, Gg^Efm, Wwf, Wwf, Gs^Fms, Gg^Ve, Mm, Ww, Rrc, Rrc, Gs^Fms, Gs^Fms, Ww, Ww, Ww, Ww, Gg, Gg, Hh^Fms, Chs, Rrc, Chs, Chs, Chs, Ss, Ss, Ww, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Gg, Mm, Mm, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gg^Gvs, Rr, Gg^Gvs, Gs^Fds, Gg^Eff, Gg^Gvs, Gg^Gvs, Gs^Fds, Gg^Efm, Gg^Efm, Gs^Fms, Gs^Fms, Gs^Fds, Gs^Fms, Gs^Fms, Gs^Fms, Wwf, Gs^Fms, Cf, Kfr^Vov, Ww, Ww, Rrc, Gs^Fms, Gg^Gvs, Gg^Gvs, Gg, Gg, Ww, Gg, Hh^Fms, Gd, Gd, Chs, 3 Khs^Vov, Chs, Gg^Em, Hhd, Rp, Rp, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gg, Gg, Gg, Wo, Gg, Gg, Gg, Wo, Wo, Wo, Wo, Wo, Wo, Gg^Gvs, Rr, Gg^Gvs, Gg^Vwm, Gg^Gvs, Gg^Gvs, Gg^Gvs, Gg^Gvs, Gg^Efm, Gg, Gg^Em, Gs^Fds, Gs^Fms, Gg^Fet, Gs^Fms, Gs^Fms, Wot^Ewl, Gs^Fms, Mm, Mm, Mm, Ww, Rrc, Rrc, Rrc, Rrc, Gg^Gvs, Gg, Ww, Ww, Gd, Gd, Sm, Sm, Chs, Mm, Mm, Gg, Mm, Mm, Uu^Vud, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gg, Gg, Mm, Mm, Mm, Ww, Gg, Hh, Mm, Hh, Gg, Wo, Wo, Wo, Wo, Gg, Rr^Vhc, Gg^Gvs, Ss, Gs^Fds, Gg^Gvs, Gg^Gvs, Gs^Fds, Rr^Vhc, Gs^Fds, Gs^Fds, Cv, Cv, Cv, Gs^Fms, Wwf, Wot^Ewf, Gs^Fms, Gg^Ve, Mm, Mm, Ww^Ewf, Gg, Gg, Gg^Gvs, Gg^Gvs, Rrc, Rrc, Rr^Vhc, Gg, Ww, Gd, Sm, Mm, Mm, Wog, Wog, Wog, Gg, Mm, Mm, Mm, Mm, Mm, Mm, Cf, Kfr^Vov, Gg^Fp, Mm, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gg, Mm, Ss, Hh, Hh, Ww, Gg, Rr^Vhc, Mm, Mm, Gg, Gg, Wo, Wo, Wo, Ww, Ww, Rr, Ww, Ss, Wot, Gg, Gg, Gg, Gs^Fds, Gg^Em, Cv, 8 Kv^Vov, Cv, Gg^Em, Wot^Ewl, Gg^Efm, Gs^Fms, Gs^Fms, Mm, Mm, Ww, Ww, Ww, Gg^Gvs, Gg^Gvs, Gg^Gvs, Rp, Gg, Gs^Fds, Ww, Ww, Mm, Uu^Vud, Wog, Wog, Wog, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Rp, Mm, Mm, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gg, Gs^Fms, Gs^Fms, Gs^Fms, Ww, Ww, Rr, Rr, Hh^Fds, Rr, Gg, Ww, Gg, Gg^Vwm, Gg, Ww, Ww^Bsb|, Gg, Ww, Gg, Wot, Wot, Gg, Wot^Ewf, Gg^Fet, Gg^Efm, Cv, Gg^Efm, Re, Gs^Fms, Wot, Wot, Gs^Fms, Mm, Mm, Ww, Gg, Ww, Gg, Gs^Fds, Gg^Wm, Rp, Gs^Fds, Gs^Fds, Gs^Fds, Gg, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Hh, Hh, Rp, Mm, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gg, Gs^Fms, Gs^Fms, Gs^Fms, Ss, Ss, Ww, Gg^Gvs, Rr, Ss, Ww^Bsb\, Rr, Gg^Gvs, Gg^Gvs, Ww, Rr, Rr, Rr, Ww, Ww^Ewl, Gg^Em, Gg^Em, Wot, Gg^Efm, Wot, Wot^Ewl, Wot^Ewf, Wot^Ewl, Re, Re, Gs^Fms, Gs^Fms, Wot, Mm, Mm, Ww, Gll^Fp, Gg, Ww, Ww, Gg, Gg^Em, Rp, Rp, Gg^Em, Gg, Mm, Ww, Mm, Gs^Fms, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Rp, Mm, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gg, Gg, Gs^Fms, Mm, Gs^Fms, Mm, Ww, Rb, Rb, Ss, Ww, Gg^Gvs, Rr, Rr, Ww^Bsb/, Gs^Fds, Gg, Gg, Rr^Vhc, Gg, Ww^Ewl, Gg, Ww, Ww, Gg^Efm, Ww, Gg^Efm, Wot, Gg, Wot, Re, Gs^Fms, Gs^Fms, Mm, Mm, Ww, Gll^Fp, Hh^Fp, Gg, Gg, Ww, Ww, Gg^Em, Rp, Gg, Mm, Mm, Ww, Gs^Fms, Gs^Fms, Gs^Fms, Gs^Fms, Mm, Mm, Mm, Hh, Mm, Rp, Rp, Rp, Rp, Mm, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gg, Gg, Gs^Fds, Gg, Gg, Mm, Rb, Rb, Mm, Mm, Mm, Ww, Gg, Gg^Gvs, Gg^Em, Ww, Ww, Gs^Fds, Gg^Emf, Gg, Ww, Ww, Gg, Gg, Ww, Gg, Ww, Gg, Gg, Wot, Gs^Fms, Wot^Bsb|, Wot, Gs^Fms, Mm, Mm, Gg, Ww, Ww, Hh, Gg, Hh^Fp, Mm, Mm, Mm, Rp, Ww, Ww, Gg, Gg, Gg, Gs^Fms, Mm, Gg, Gg^Fp, Gg, Hh, Hh, Rp, Hh, Mm, Hh, Mm, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wwr, Wwr, Gg, Gs^Fds, Gg^Fds, Gg, Mm, Gg^Es, Rb, Mm, Mm, Mm, Mm, Mm, Qxu^Bcx|, Mm, Mm, Gg^Em, Ww, Hh^Fds, Hh, Hh^Fp, Ww, Hh^Fp, Hh^Fp, Gg, Ww, Hh^Fds, Ww, Hh, Hh, Gs^Fms, Gs^Fms, Re, Re, Wot, Mm, Mm, Hh^Fp, Gs^Vl, Gg^Es, Ww, Mm, Mm, Mm, Mm, Gs^Fms, Rp, Ww, Gg, Ww, Gg, Ww, Ww, Gg, Gg, Gg^Fp, Gg, Mm, Mm, Cfa, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wwr, Gg, Gg, Gg, Mm, Gg, Gs^Fds, Gg, Rb, Mm, Mm, Mm, Mm, Mm, Qxu^Bcx|, Mm, Mm, Mm, Mm, Mm, Mm, Cfr, Kfr^Vov, Mm, Mm, Mm, Mm, Mm, Hh, Mm, Mm, Gs^Fms, Mm, Gs^Fms, Mm, Re, Mm, Mm, Mm, Hh^Es, Cf, Kfr^Vov, Mm, Mm, Gs^Fms, Gs^Fms, Rr^Vhc, Rp, Gg, Ww, Gs^Fms, Ww, Gs^Fms, Gs^Fms, Gs^Fms, Gg, Gg, Gg, Mm, Cfa, 4 Kfa^Vov, Cfa, Icr, Mm, Mm, Mm, Mm, Mm, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gg, Gg, Hh^Fds, Mm, Mm, Mm, Gg^Eff, Gg, Ch, Ch, Ch, Gs^Fms, Rp, Gs^Fms, Gs^Fms, Mm, Mm, Mm, Ss, Mm, Sm, Mm, Hh, Hh, Mm, Hh, Gg, Hh, Ww, Hh, Gg^Es, Mm, Mm, Kfr^Vov, Mm, Qxu^Bs|, Mm, Mm, Mm, Mm, Mm, Mm, Gs^Fms, Mm, Gs^Fms, Gs^Fms, Rp, Gs^Fms, Ww, Ww, Gg, Hh^Fms, Hh^Vud, Hh^Fms, Gg, Gg, Mm, Mm, Mm, Cfa, Cfa, Cfa, Mm, Icr, Mm, Mm, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Gg, Gg, Hh, Hh^Fds, Mm, Mm, Gg^Gvs, Gg^Gvs, Gg^Gvs, Gg^Eff, Ch, 7 Kh^Vov, Ch, Rp, Gs^Fms, Rp, Rp, Rp, Rp, Gg, Gg, Ss, Ss^Bw/, Sm, Gg, Gg, Re, Gg, Ww, Gg, Ww, Gg, Gg, Mm, Mm, Cf, Mm, Qxu^Bs|, Gs^Fms, Gs^Fms, Ww, Gs^Fms, Gs^Fms, Gs^Fms, Ww, Ww, Gg, Gs^Fms, Rp, Gg, Ww, Gg, Gg, Hh, Gg, Gg, Ww, Mm, Mm, Mm, Mm, Mm, Qxu^Bcx|, Mm, Mm, Mm, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Gs^Fds, Ss, Ss, Hh, Wo, Gg, Wo, Gg^Gvs, Gs^Fds, Gg, Gg, Cme, Gg, Gg, Ww, Gg, Ww, Ww, Mm, Rp, Wo, Sm, Ss, Ss, Wo, Rr^Vhc, Ww^Bw|, Ww, Gg, Ww, Gg, Ww, Ww, Mm, Mm, Mm, Ww, Re, Re, Rr^Vhc, Gs^Fms, Ww, Gs^Fms, Gs^Fms, Ww, Gg, Rp, Rp, Hh, Gg, Ww, Gg, Ww, Ww, Ww, Ww, Mm, Mm, Mm, Mm, Hhd, Mm, Rr, Mm, Mm, Gg, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Gg, Gg, Wo, Gg, Wo, Wo, Wo, Gg, Wo, Gg, Wo, Ww, Gg, Ww, Gg, Ww, Ss, Mm, Mm, Rp, Wo, Wo, Wo, Gg, Wo, Wo, Re, Gg, Hh^Fds, Gg, Gg, Gg, Mm, Mm, Mm, Gs^Fms, Gg, Ww, Gs^Fms, Rp, Rp, Ww, Rp, Gg, Ww^Bw/, Rp, Gs, Rp, Uu^Vud, Hh, Ww, Ww, Gg, Gg, Rp, Hhd^Vhhr, Hh, Mm, Hh, Hh, Rp, Rp, Rp, Uu^Vud, Hh, Mv, Mm, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gg, Ww, Ww, Gg^Es, Ss, Ss, Mm, Mm, Rr^Vhc, Wwr, Wo, Wo, Wo, Wo, Gg, Re, Hh, Hh, Hh^Fds, Gg, Gg, Mm, Mm, Gs^Fms, Gs^Fms, Gg, Ww, Gg, Gs, Rp, Ww^Bw/, Gg, Rp, Ww, Gs, Gg, Gs, Rp, Hh, Ww, Gg, Rp, Rp, Mm, Rp, Rp, Rp, Rp, Rp, Mm, Mm, Mm, Rp, Rp, Mm, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ww, Gg, Gg, Gg, Gg, Gg^Es, Mm, Mm, Wwr, Gs^Fds, Wo, Wo, Wo, Wo, Wo, Ww^Bw|, Gg, Gs^Fds, Gg, Ww, Mm, Mm, Gs^Fms, Ww, Ww, Ww, Ww, Rp, Rp, Wo, Wo, Wo, Gg, Wo, Gg, Ww, Ww, Ww, Ww^Bw\, Rp, Rp, Gg, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Gg, Rp, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Mm, Mm, Mm, Wwr, Wwr, Wo, Wo, Wo, Wo, Rr^Vhc, Re, Ww, Ww, Ww, Gs^Fds, Mm, Mm, Gs^Fms, Gs^Fms, Gg, Wo, Gs, Rp, Gs, Wo, Wo, Wo, Wo, Gd^Edb, Ww, Gd, Gd, Gd, Ww^Bw/r, Ww, Gg, Ww, Gg, Gg, Gg, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Gg, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gg, Mm, Gd, Wwr, Gd, Wo, Wo, Wo, Wo, Wo, Re, Gs^Fds, Ww, Gs^Fds, Gg, Mm, Gg, Gs^Fms, Gs^Fms, Gg, Wo, Gs, Rp, Gs, Wo, Wo, Gd^Edb, Gd^Edb, Gd^Edb, Gd, Tb, Rp, Hhd, Gd, Gd, Ww, Gd, Ww, Gg, Gg, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wwr, Gd, Wwr, Wwr, Wwr, Wo, Wo, Wo, Wo, Wo, Re, Rp, Ww^Bsb\, Ww, Ww, Mm, Gg, Gg, Wo, Wo, Rp, Rp, Wo, Wo, Wo, Wo, Gd^Edb, Gd^Edb, Gd^Esd, Gd^Esd, Hhd^Fetd, Rp, Hhd^Tf, Gd^Feth, Gd, Gd, Gd, Ww, Ww, Gg, Mm, Mm, Ko^Vov, Co, Mm, Mm, Mm, Mm, Mm, Mm, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gs^Fds, Wwr, Wwr, Gs^Fds, Gd, Wo, Wo, Wo, Wo, Gs^Fds, Re, Ww, Gs^Fds, Rp, Rp, Mm, Chw, Wo, Rp, Rp, Gs, Wo, Wo, Wo, Gd, Gd, Gd, Gd, Hhd, Gd, Gd, Gd, Gd, Rp, Hhd^Tf, Hhd, Hhd, Mm, Mm, Mm, Rp, Co, Rp, Rp, Rp, Mm, Mm, Mm, Mm, Mm, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gs^Fds, Wwr, Wwr, Wo, Wo, Wo, Wo, Ss, Re, Gs^Fds, Ww, Mm, Gg, Wo, Chw, 6 Kh^Vov, Ch, Ds, Ds, Wo, Wo, Wo, Wo, Uu^Vu, Gd, Mdd, Gd, Hhd^Fetd, Hhd, Gd, Rp, Gd, Rp, Rp, Rp, Rp, Rp, Rp, Rp, Mm, Rp, Hhd, Hhd, Mm, Rp, Rp, Mm, Mm, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gd, Wo, Wo, Gd, Wo, Wo, Wo, Ss, Re, Re, Mm, Mm, Gg, Wo, Wo, Chw, Ch, Ch, Wo, Wo, Wo, Wo, Gd, Gs, Hhd, Gd, Hhd, Gd, Hhd, Gd^Tf, Gd, Hhd, Rp, Hhd, Mm, Mm, Mm, Mm, Coa, Rp, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Rp, Rp, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Re, Mm, Mm, Mm, Mm, Ss, Wo, Ds, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gd, Gs, Mdd, Mdd, Hhd, Gd, Gd, Gd, Gd, Gd, Rp, Hhd, Hhd, Mm, Mm, Coa, 5 Koa^Vov, Coa, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Rr^Vhc, Gs^Fds, Mm, Gg, Ww, Ss, Gg, Ds, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gs, Hhd, Mdd, Mdd, Gd, Uh, Uh, Hhd, Hhd, Gd, Gd, Rp, Rp, Hhd, Mm, Coa, Coa, Coa, Rp, Mm, Mm, Mm, Mm, Mm, Aa^Voa, Mm, Gg, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gg, Gg, Gg, Gs^Fds, Ww, Gs, Gs, Wo, Wo, Wo, Wo, Wo, Wo, Gd, Gs, Mm, Mm, Mm, Mdd, Uh, Qxu, Uu^Vu, Uhe, Tb, Gd, Mdd, Hhd, Hhd, Rp, Aa^Voa, Rp, Mm, Mm, Mm, Qxu^Bh\, Rp, Rp, Rp, Rp, Mm, Mm, Mm, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wwr, Wwr, Gg, Gg, Gg, Ww, Wo, Wo, Gs, Ww, Ww, Gs, Wo, Wo, Wo, Wo, Wo, Wo, Gs, Gs, Mdd, Mm, Uh, Gd, Gd, Tb, Gd, Gd, Gd, Mdd, Mdd, Mdd, Mm, Mm, Mm, Mm, Ms, Mm, Ms, Mm, Mm, Mm, Ms, Mm, Mm, Mm, Ms, Ms, Ms, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gs^Vh, Ds, Gs^Fds, Gs^Fds, Wo, Wo, Ss, Gs, Gs, Ww, Gs, Wo, Wo, Gd, Wo, Gs, Gs, Mdd, Mdd, Mdd, Mdd, Mdd, Gd, Gd, Dd, Dd, Gd, Dd^Dc, Gd, Gd, Mdd, Mdd, Mm, Mm, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Mm, Mm, Ms, Ms, Ms, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ds, Wo, Gg, Wo, Wo, Wo, Gg, Wo, Gg, Wo, Wo, Wo, Wo, Gd, Gd, Mdd, Mdd, Mdd, Uu^Vud, Gd, Gd, Gd, Dd, Dd, Dd, Dd, Dd^Dr, Dd^Do, Gd, Gd^Edp, Gd, Gd, Mm, Mm, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gd, Tb, Gd, Mdd, Gd, Gd^Dr, Dd, Gd, Dd, Dd^Edp, Dd, Dd^Dc, Gd, Dd, Dd, Dd^Edp, Dd, Gd, Dd, Gd, Dd, Gd, Gd, Mm, Mm, Mm, Mm, Ms, Mm, Mm, Ms, Ms, Ms, Mm, Mm, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Gg, Wwg, Gg, Wo, Gg, Wo, Gg, Gd, Gg, Mdd, Gg, Dd, Dd, Gd, Gd, Dd, Gd, Gd, Gg, Gd, Gg, Dd, Gg, Gd, Gg, Gd, Dd, Gd, Gd, Gd, Gg, Mm, Gg, Mm, Gg, Mm, Gg, Ms, Gg, Mm, Gg, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+"
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Bilbali"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=17
+	y=25
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Magritta"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=17
+	y=33
+[/label]
+[label]
+	category=""
+	color="100,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Estalia"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=18
+	y=27
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Zamek Artois"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=24
+	y=11
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Bordeleaux"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=24
+	y=20
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Tobaro"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=25
+	y=36
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Sartosa"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=25
+	y=48
+[/label]
+[label]
+	category=""
+	color="100,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Bretonia"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=26
+	y=15
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Brionne"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=26
+	y=24
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Couronne"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=29
+	y=8
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Carcassonne"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=29
+	y=28
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Luccini"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=29
+	y=45
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Karak Bhufdar"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=30
+	y=31
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Miragliano"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=31
+	y=34
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Remas"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=31
+	y=38
+[/label]
+[label]
+	category=""
+	color="100,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Tilea"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=32
+	y=39
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Quenelles"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=33
+	y=24
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Marienburg"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=35
+	y=11
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Królewska Polana"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=37
+	y=25
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Myrmidia"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=38
+	y=42
+[/label]
+[label]
+	category=""
+	color="100,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Reikland"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=39
+	y=14
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Karak Ziflin"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=39
+	y=18
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Parravon"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=40
+	y=19
+[/label]
+[label]
+	category=""
+	color="100,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Middenland"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=41
+	y=10
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Karak Izor"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=41
+	y=33
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Altdorf"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=42
+	y=15
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Wodospadowy pałac"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=42
+	y=21
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Salzenmund"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=43
+	y=5
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Middenheim"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=43
+	y=8
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Górskie Sale Findola"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=43
+	y=24
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Ekrund"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=43
+	y=49
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Karak Norn"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=44
+	y=22
+[/label]
+[label]
+	category=""
+	color="100,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Nordland"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=45
+	y=4
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Zvorak"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=45
+	y=34
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Nuln"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=46
+	y=20
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Kopalnia Kamienia"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=46
+	y=42
+[/label]
+[label]
+	category=""
+	color="100,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Wissenland"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=47
+	y=24
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Browar Bugmana"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=47
+	y=30
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Karak Hirn"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=48
+	y=31
+[/label]
+[label]
+	category=""
+	color="100,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Hochland"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=49
+	y=10
+[/label]
+[label]
+	category=""
+	color="100,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Księstwa Graniczne"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=49
+	y=34
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Mosiężna Twierdza"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=50
+	y=8
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Kopalnia Bitterstone"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=50
+	y=46
+[/label]
+[label]
+	category=""
+	color="100,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Stirland"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=51
+	y=19
+[/label]
+[label]
+	category=""
+	color="100,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Talabecland"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=52
+	y=15
+[/label]
+[label]
+	category=""
+	color="100,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Złe Ziemie"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=52
+	y=43
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Hergig"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=53
+	y=11
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Talabheim"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=53
+	y=13
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Wurtbad"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=53
+	y=18
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Averheim"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=53
+	y=24
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Erengrad"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=54
+	y=3
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Wolfenburg"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=54
+	y=8
+[/label]
+[label]
+	category=""
+	color="100,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Averland"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=54
+	y=25
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Akendorf"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=54
+	y=31
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Barak Varr"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=54
+	y=35
+[/label]
+[label]
+	category=""
+	color="100,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Ostland"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=56
+	y=6
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Zamek Templehof"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=56
+	y=20
+[/label]
+[label]
+	category=""
+	color="100,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Sylvania"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=56
+	y=22
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Karag Dromar"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=58
+	y=25
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Karak Azgal"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=58
+	y=46
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Zamek Drakenhof"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=59
+	y=22
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Bechafen"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=60
+	y=11
+[/label]
+[label]
+	category=""
+	color="100,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Ostermark"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=60
+	y=16
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Wzgórze Varenka"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=60
+	y=32
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Karak Osiem Szczytów"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=60
+	y=44
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Barag Dawazbag"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=61
+	y=35
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Kislev"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=63
+	y=9
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Czarna Grań"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=64
+	y=40
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Zhufbar"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=65
+	y=23
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Praag"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=66
+	y=2
+[/label]
+[label]
+	category=""
+	color="100,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Przełęcz Śmierci"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=66
+	y=41
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Karak Kadrin"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=67
+	y=18
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Karaz-a-Karak"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=68
+	y=31
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Karak Azul"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=68
+	y=45
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Karag Dron"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=69
+	y=35
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Karak Ungor"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=70
+	y=13
+[/label]
+[label]
+	category=""
+	color="221,221,221"
+	immutable=yes
+	side=0
+	team_name=""
+	text="Góra Gunbad"
+	tooltip=""
+	visible_in_fog=yes
+	visible_in_shroud=no
+	x=70
+	y=24
+[/label]
